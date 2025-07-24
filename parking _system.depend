@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1703518916 source:d:\parking _system\main.cpp
+	<iostream>
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+	"account.h"
+	"Cancel_book.h"
+
+1703517912 source:d:\parking _system\src\car.cpp
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+	<fstream>
+
+1703517912 d:\parking _system\include\parkingsystem.h
+	"Car.h"
+	<iostream>
+
+1703149265 d:\parking _system\include\car.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1703525313 d:\parking _system\include\parking_information.h
+	<iostream>
+
+1703440176 source:d:\parking _system\src\parking_information.cpp
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+
+1703444226 source:d:\parking _system\src\account.cpp
+	"account.h"
+	<fstream>
+
+1703154564 d:\parking _system\include\account.h
+	<iostream>
+
+1703538288 source:d:\parking _system\src\parkingsystem.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+	"account.h"
+
+1703536657 source:d:\parking _system\src\cancel_book.cpp
+	"Cancel_book.h"
+	<iostream>
+	<fstream>
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+	"account.h"
+	<string>
+	<algorithm>
+
+1703511273 d:\parking _system\include\cancel_book.h
+	<iostream>
+
+1703764296 source:c:\users\beboc\desktop\garage system\parking _system\main.cpp
+	<iostream>
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+	"account.h"
+	"Cancel_book.h"
+
+1703764296 c:\users\beboc\desktop\garage system\parking _system\include\parkingsystem.h
+	"Car.h"
+	<iostream>
+
+1703764296 c:\users\beboc\desktop\garage system\parking _system\include\car.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1703764296 c:\users\beboc\desktop\garage system\parking _system\include\parking_information.h
+	<iostream>
+
+1703764296 c:\users\beboc\desktop\garage system\parking _system\include\account.h
+	<iostream>
+
+1703764296 c:\users\beboc\desktop\garage system\parking _system\include\cancel_book.h
+	<iostream>
+
+1703942804 source:c:\users\beboc\desktop\garage system\parking _system\src\account.cpp
+	"account.h"
+	<fstream>
+
+1703764296 source:c:\users\beboc\desktop\garage system\parking _system\src\cancel_book.cpp
+	"Cancel_book.h"
+	<iostream>
+	<fstream>
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+	"account.h"
+	<string>
+	<algorithm>
+
+1703764296 source:c:\users\beboc\desktop\garage system\parking _system\src\car.cpp
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+	<fstream>
+
+1703764296 source:c:\users\beboc\desktop\garage system\parking _system\src\parking_information.cpp
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+
+1703764296 source:c:\users\beboc\desktop\garage system\parking _system\src\parkingsystem.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+	"account.h"
+
+1703956329 source:e:\education\level 2\semester 1\1- fundmental of programming ii\others\final project\garage system\parking _system\main.cpp
+	<iostream>
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+	"account.h"
+	"Cancel_book.h"
+
+1703764296 e:\education\level 2\semester 1\1- fundmental of programming ii\others\final project\garage system\parking _system\include\parkingsystem.h
+	"Car.h"
+	<iostream>
+
+1703764296 e:\education\level 2\semester 1\1- fundmental of programming ii\others\final project\garage system\parking _system\include\car.h
+	<ctime>
+	<cstdlib>
+	<iostream>
+
+1703764296 e:\education\level 2\semester 1\1- fundmental of programming ii\others\final project\garage system\parking _system\include\parking_information.h
+	<iostream>
+
+1703764296 e:\education\level 2\semester 1\1- fundmental of programming ii\others\final project\garage system\parking _system\include\account.h
+	<iostream>
+
+1703764296 e:\education\level 2\semester 1\1- fundmental of programming ii\others\final project\garage system\parking _system\include\cancel_book.h
+	<iostream>
+
+1703956329 source:e:\education\level 2\semester 1\1- fundmental of programming ii\others\final project\garage system\parking _system\src\account.cpp
+	"account.h"
+	<fstream>
+
+1703764296 source:e:\education\level 2\semester 1\1- fundmental of programming ii\others\final project\garage system\parking _system\src\cancel_book.cpp
+	"Cancel_book.h"
+	<iostream>
+	<fstream>
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+	"account.h"
+	<string>
+	<algorithm>
+
+1703950819 source:e:\education\level 2\semester 1\1- fundmental of programming ii\others\final project\garage system\parking _system\src\car.cpp
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+	<fstream>
+
+1703764296 source:e:\education\level 2\semester 1\1- fundmental of programming ii\others\final project\garage system\parking _system\src\parking_information.cpp
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+
+1703951866 source:e:\education\level 2\semester 1\1- fundmental of programming ii\others\final project\garage system\parking _system\src\parkingsystem.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"ParkingSystem.h"
+	"Car.h"
+	"Parking_Information.h"
+	"account.h"
+
